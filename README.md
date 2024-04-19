@@ -1,4 +1,3 @@
-# Probabilistic-interpretation-of-factors-affecting-Breast-Cancer
 # Brief Introduction
 
 Objective of this project was to build a Probabilistic Graphical Model on breast cancer dataset to generate the conditional probability distributions for each factor affecting the likelihood of breast cancer. 
