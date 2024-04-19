@@ -82,7 +82,7 @@ Class distribution: 357 benign, 212 malignant
 
 
 Part1: For the given Breast Cancer datasets, fit the Naive Bayes and logistic regression models. Compare their results on test set.
-Carry out the following tasks:
+Carry out the following tasks :
 
 1. Load and read ,the data from the input file data.csv
 2. Remove the unwanted columns(id,unnamed 0, unnamed32)
